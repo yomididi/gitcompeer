@@ -1,0 +1,27 @@
+Test_KYC
+17:17:48:047 SOQL_EXECUTE_BEGIN [20]|Aggregations:0|SELECT Id, SkipIdentityVerification__c FROM CloudLoanVendor__c WHERE ExternalVendorID__c = :tmpVar1 LIMIT 1
+
+
+
+
+
+CLS_DenyReasons - 93%
+AppStatusUpdateAfterCompleted - Remove extra method - Done
+CLS_ExitAndReturnPortalAPI - 92%
+CLS_ExitAndSignLater - 93%
+CLS_ExperianFailPortalAPI - 93%
+CLS_FetchOfferAPI - 93%
+CLS_KYC_EventTrigger - Remove - Done
+CLS_KYC_Submit_Ans_EventTrigger - Remove - Done
+CLS_NetScoreFailPortalAPI - 94%
+CL_PB_BookLoan - 100%
+CLS_OfferAcceptportalAPI - 97%
+
+CLS_Portal_BusinessInfoAPI - 34%
+CLS_StageLoadAcceptOfferInfolAPI - 0%
+CL_PB_CreditPull - 76%
+CL_PB_DeniedEmail - Remove
+CLS_DocusignRestAPIIntegration - 29%
+
+
+Chandra - Speak with Ayush
